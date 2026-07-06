@@ -5,8 +5,8 @@
     font-family: 'poppins', sans-serif;
 }
 .phone {
-    width: 440px;
-    height: 844px;
+    width: 540px;
+    height: 944px;
     margin: auto;
     border-radius: 40px;
     overflow: hidden;
@@ -16,7 +16,7 @@
     position: relative;
 }
 .phone .phone_style{
-    width: 440px;
+    width: 540px;
     height: 300px;
     margin: auto;
     border-radius: 400px 0px 0px 0px ;
